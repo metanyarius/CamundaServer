@@ -1,4 +1,4 @@
-package org.camunda.bpm.spring.boot.example.webapp.delegate;
+package main;
 
 import org.camunda.bpm.engine.delegate.DelegateExecution;
 import org.camunda.bpm.engine.delegate.JavaDelegate;
